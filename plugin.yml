@@ -1,0 +1,17 @@
+name: ALSRP
+main: ru.bussy.Main
+version: 1.0.0
+author: bussy
+commands:
+  me:
+    usage: /<command> <text>
+    description: rp
+  gme:
+    usage: /<command> <text>
+    description: rp
+  try:
+    usage: /<command> <text>
+    description: rp
+  gtry:
+    usage: /<command> <text>
+    description: rp
